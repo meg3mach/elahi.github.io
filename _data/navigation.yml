@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: _pages/about/
+    url: /about/
   - title: "CV"
-    url: _pages/CV/
+    url: /CV/
   - title: "Pubs"
-    url: _pages/pubs/
+    url: /pubs/
 
