@@ -5,7 +5,7 @@ excerpt: "Bio."
 sitemap: true
 permalink: /about/
 header:
-  image: P1010170_crop.jpg
+  image: assets/images/P1010170_crop.jpg
   caption: "Field sites in the San Juan Islands, WA"
 ---
 
