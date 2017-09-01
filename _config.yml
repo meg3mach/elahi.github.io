@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Robin Elahi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I am a person."
   location         : "Hopkins Marine Station, Stanford University"
   email            : "elahi@stanford.edu"
   uri              :
