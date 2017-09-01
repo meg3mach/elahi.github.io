@@ -1,11 +1,11 @@
 ---
-title: "About"
+#title: "About"
 layout: single
 excerpt: "Bio."
 sitemap: true
 permalink: /about/
 header:
-  image: assets/images/P1010170_crop.jpg
+  image: images/P1010170_crop.png
   caption: "Field sites in the San Juan Islands, WA"
 ---
 
