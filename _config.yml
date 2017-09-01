@@ -14,7 +14,7 @@ description              : "Mostly stuff related to marine population and commun
 url                      : "https://elahi.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "elahi/elahi.github.io"
-teaser                   : /assets/images/P1010170_crop.png
+teaser                   : screenshot.png #/assets/images/P1010170_crop.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
