@@ -7,7 +7,7 @@ permalink: /about/
 header:
   #image: images/P1010170_crop.png
   #caption: "Field sites in the San Juan Islands, WA"
-  image: images/IMG_0039.JPG
+  image: images/IMG_0039_crop.JPG
   caption: "A bottom trawler leaving the port of Ancona, Italy"
 ---
 
