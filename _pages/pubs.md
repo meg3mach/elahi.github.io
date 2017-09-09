@@ -8,7 +8,9 @@ header:
   caption: "Field sites in the San Juan Islands, WA"  
 ---
 
-## [Google Scholar](https://scholar.google.com/citations?user=hBx90hAAAAAJ&hl=en)    [ResearchGate](https://www.researchgate.net/profile/Robin_Elahi)
+#
+
+**[Google Scholar](https://scholar.google.com/citations?user=hBx90hAAAAAJ&hl=en)**      **[ResearchGate](https://www.researchgate.net/profile/Robin_Elahi)**
 
 
 [12] O’Leary, J., Micheli, F., Airoldi L., Boch C., De Leo, G., **Elahi, R.**, Ferretti, F., Graham, N.A.J., Litvin, S.Y., Low, N.H., Lummis, S., Nickols, K.J., and J. Wong. 2017. *Resilience of marine ecosystems to climatic disturbances.* BioScience 67: 208-220
