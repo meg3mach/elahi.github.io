@@ -8,9 +8,7 @@ header:
   caption: "Field sites in the San Juan Islands, WA"  
 ---
 
-# Publications 
-
-O’Leary, J., Micheli, F., Airoldi L., Boch C., De Leo, G., **Elahi, R.**, Ferretti, F., Graham, N.A.J., Litvin, S.Y., Low, N.H., Lummis, S., Nickols, K.J., and J. Wong. 2017. *Resilience of marine ecosystems to climatic disturbances.* BioScience 67: 208-220
+[12] O’Leary, J., Micheli, F., Airoldi L., Boch C., De Leo, G., **Elahi, R.**, Ferretti, F., Graham, N.A.J., Litvin, S.Y., Low, N.H., Lummis, S., Nickols, K.J., and J. Wong. 2017. *Resilience of marine ecosystems to climatic disturbances.* BioScience 67: 208-220
 
 **Elahi, R.**, Sebens, K.P., and G.A. De Leo. 2016. *Ocean warming and the demography of declines in coral body size.* Marine Ecology Progress Series 560: 147-158
 
@@ -32,4 +30,4 @@ Edmunds, P.J. and **R. Elahi.** 2007. *The demographics of a 15-year decline in 
 
 **Elahi, R.** and P.J. Edmunds. 2007. *Tissue age affects calcification in the scleractinian coral, Madracis mirabilis.* Biological Bulletin 212:20-28
 
-**Elahi, R.** and P.J. Edmunds. 2007. *Consequences of fission in the coral Siderastrea siderea: growth rates of small colonies and clonal input to population structure.* Coral Reefs 26:271-276
+[1] **Elahi, R.** and P.J. Edmunds. 2007. *Consequences of fission in the coral Siderastrea siderea: growth rates of small colonies and clonal input to population structure.* Coral Reefs 26:271-276
