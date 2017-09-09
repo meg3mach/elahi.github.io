@@ -1,0 +1,19 @@
+---
+layout: single
+excerpt: "Bio."
+sitemap: true
+permalink: /pubs/
+header:
+  image: images/P1010170_crop.png
+  caption: "Field sites in the San Juan Islands, WA"
+biblio-style: apsr
+bibliography: ~/github/bib/master.bib
+endnote: no  
+---
+
+# Publications 
+
+Elahi, O'Connor, Byrnes, Dunic, Eriksson, Hensel, and Kearns. 2015. "Recent trends in local-scale marine biodiversity reflect community structure and human impacts" *Current Biology* 25: 1838-1943.
+
+
+@bertrand2005levy
