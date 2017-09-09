@@ -14,3 +14,4 @@ endnote: no
 google scholar link
 researchgate link
 
+@bertrand2005levy
